@@ -14,3 +14,17 @@ pip install -r Requirements.txt   #Install pip from the folder
 1. Download get-pip.py (Link: https://bootstrap.pypa.io/get-pip.py)(Hint: use save as)
 2. import this file into cmd by using python
 3. python -m pip install pip==19.0.1
+
+
+Coding လုပ်ဖို့ Steps
+Step 1. Look and Rewrite
+Step 2. Change Code & Feature
+
+OpenCV နဲ့တွဲပြီးသုံးဖို့လိုတဲ့ဟာတွေ
+numpy
+scipy
+pillow
+kreas
+requests
+six
+pandas
