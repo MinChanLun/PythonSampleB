@@ -14,5 +14,5 @@ b = {
 	'Mother' : 'Daw Aye'
 }
 
-c = ['minchanlun', 'sumyatzin', 'kaungsetnaing', 'winthmoneshweyi']
+c = ['Irene', 'Seulgi', 'Wendy', 'Joy', 'Yeri']
 
